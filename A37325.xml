@@ -1,0 +1,317 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration and instructions for bringing the several branches of the revenue and stores in Ireland unto one head of accompt, and for the better preventing irregular issues of moneys or provisions</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37325</idno>
+            <idno type="STC">Wing D530A</idno>
+            <idno type="STC">ESTC R3523</idno>
+            <idno type="EEBO-CITATION">11882911</idno>
+            <idno type="OCLC">ocm 11882911</idno>
+            <idno type="VID">50339</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37325)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50339)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 24:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration and instructions for bringing the several branches of the revenue and stores in Ireland unto one head of accompt, and for the better preventing irregular issues of moneys or provisions</title>
+               </titleStmt>
+               <extent>[2], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Bladen,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Revenue --  Ireland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50339:1" rendition="simple:additions"/>
+            <pb facs="tcp:50339:1" rendition="simple:additions"/>
+            <pb facs="tcp:50339:2"/>
+            <pb facs="tcp:50339:2" rendition="simple:additions"/>
+            <p>A DECLARATION, and <hi>INSTR<g ref="char:V">Ʋ</g>CTIONS,</hi> For bringing the ſeveral Bran<g ref="char:EOLhyphen"/>ches of the <hi>Revenue</hi> and <hi>Stores</hi> in IRELAND, unto one Head of <hi>ACCOMPT.</hi>
+            </p>
+            <p>And for the better preventing ir<g ref="char:EOLhyphen"/>regular Iſſues of Moneys or Proviſions.</p>
+            <p>
+               <hi>DVBLIN,</hi> ¶ Printed by W. BLADEN, <hi>Anno Dom.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <head>IRELAND.</head>
+            <head type="sub">By the Commiſsioners of the <hi>Parliament</hi> of the Common-wealth of <hi>ENGLAND</hi> for the Affairs of <hi>IRELAND.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>OR the better Ordering and bringing of the ſeveral Branches of the Revenue and Stores in <hi>Ireland,</hi> into one Head of Accompt<g ref="char:punc">▪</g> And for the better preventing of irregular Iſſues of Mo<g ref="char:EOLhyphen"/>neys or Proviſions; And to the end the State of the ſaid Accompts may be al<g ref="char:EOLhyphen"/>ways within the View and Knowledge of ſuch as ſhall be Chiefly Intruſted with the Government and Af<g ref="char:EOLhyphen"/>fairs of this Nation, It is hereby Ordered and De<g ref="char:EOLhyphen"/>clared, That the rules and method here after preſcri<g ref="char:EOLhyphen"/>bed, be punctualy Obſerved and ſpeedily put in Exe<g ref="char:EOLhyphen"/>cution by the Commiſſioners of Revenue, Treſurers of the Publick Revenue, Keepers of Stores, Com<g ref="char:EOLhyphen"/>miſſaries
+<pb n="2" facs="tcp:50339:4"/>
+for Muſters, Auditors, Officers of the Cu<g ref="char:EOLhyphen"/>ſtom and Exciſe, and by all other Perſons imployed about the Revenue or Stores in the reſpective Pre<g ref="char:EOLhyphen"/>cincts in <hi>Ireland,</hi> according to their reſpective Truſts and Duties: That is to ſay.</p>
+            <p>I. That there be an Office erected near the place of the Commiſſioners of Parliaments moſt conſtant Reſidence and Sitting, into which the State of all Accompts of the reſpective Branches of the Publick Revenue and Stores, and Abſtracts or Duplicats of all Monthly Muſters be brought, in ſuch Man<g ref="char:EOLhyphen"/>ner as is hereafter Expreſſed.</p>
+            <p>II. That the Commiſſioners of Revenue in every reſpective Precinct in <hi>Ireland,</hi> do exactly Examin the State of the Revenue and Treſure within their Charge, from the firſt of <hi>November</hi> 1651. until the firſt of <hi>November</hi> 1652. and Certifie the ſame to the Commiſſioners of Parliament; In which they are to ſet down diſtinctly every Branch of the Certain Annual Revenue: as Rents of Lands, Rents of Houſes, Rents of Tithes, <hi>&amp;c.</hi> Vnder dtſtinct Heads, wherein they are to inſert the Names of every reſpe<g ref="char:EOLhyphen"/>ctive Tenent, and of the Thing Leaſed or Let, the Continuance of the Term, and the Rent reſerved. And likewiſe for the Caſual or Vncertain Revenue: as Cuſtoms, Exciſe, <hi>&amp;c</hi> They are to ſet down what the ſame did ſeverallie amount unto, every Month for the time aforeſaid; They are likewiſe to Certifie what Money remains in Caſh in the Treſurers hand, upon the ſaid firſt day of <hi>November,</hi> And what Rents or Debts are then due in Arrear and not paid into the Treſury; And what Warrants are
+<pb n="3" facs="tcp:50339:4"/>
+Charged upon the Treſurer and not paid, mention<g ref="char:EOLhyphen"/>ing the Dates and Contents of ſuch Warrants, which Returns or Certificats, the reſpective Treſu<g ref="char:EOLhyphen"/>rers are to Sign; They are likewiſe to Certifie the Certain Annual Iſſues out of the Revenue within their reſpective Charge, for Pay of Civil Officers, Maintainance of Miniſters to Preach the Goſpel, School-Maſters, Pentioners, Pay of Officers of Hoſpitals, Governors, Town-Majors, and Gun<g ref="char:EOLhyphen"/>ners of Garriſons, and all other Certain Setled Charge, Iſſuable of Courſe, with the Names of the reſpective Perſons that receive the ſame. The ſaid Commiſſioners of Revenue are likewiſe to Examin exactly the State of the Stores of Proviſions of Victual and Cloaths, as they ſtand within their re<g ref="char:EOLhyphen"/>ſpective Precincts, upon the ſaid firſt day of <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi> and what Quantities of Proviſion have been a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any time lent out of their ſaid Stores and not paid in, and likewiſe what Quantities have been Sold or delivered out for Money, and the Money not ac<g ref="char:EOLhyphen"/>compted for; And to Certifie the ſame under their and the Commiſſarie of the Stores Hands.</p>
+            <p>The State of the Stores of Ammnnition and o<g ref="char:EOLhyphen"/>ther Furniture of War, is proper for the Command<g ref="char:EOLhyphen"/>er in Chief of the Precinct, or Governor of the Gar<g ref="char:EOLhyphen"/>riſon, to View and Certifie in manner and form as aforeſaid.</p>
+            <p>III. The Certificats and State of the ſeveral Revenues above mentioned being returned to the Commiſſioners of Parliament: That the ſame be tranſmitted into the ſaid Office, there to be Entered as a Foundation to Carry on the General Accompt
+<pb n="4" facs="tcp:50339:5"/>
+for the future, excepting onely the Certificats that ſhall be made concerning the Stores of Arms and Ammunition, which are to be returned onely to the Commander in Chief.</p>
+            <p>IV. That the Commiſſioners of Revenue within the ſeveral and reſpective Precincts, do cauſe tranſ<g ref="char:EOLhyphen"/>ſcripts of all Bonds heretofore taken, either in the late KINGS Name, or in the Name of the Com<g ref="char:EOLhyphen"/>mon-wealth, for Cuſtoms, Exciſe, or any other Money due to the Common-wealth, and not paid before the ſaid firſt day of <hi>November;</hi> And alſo of all Bonds allowed to be taken for the Vſe of the Com<g ref="char:EOLhyphen"/>mon-wealth, which ſhall be taken after the ſaid firſt day of <hi>November,</hi> be forthwith from time to time re<g ref="char:EOLhyphen"/>turned into the ſaid Office, That the ſame may be given in Charge and duely Collected.</p>
+            <p>And likewiſe, that all Bonds, whether for Port-Cocquets or otherwiſe, and all Recognizances, ta<g ref="char:EOLhyphen"/>ken for the Vſe of the Common-wealth when due or forfeited, and all Judgements and Fines in any Court of Record, whereby any Benefit is to accrue to the Common-wealth, be from time to time every four Months. Certified into the ſaid Office, that the ſame may be given in Charge; And when any of the ſaid Bonds or Recognizances are duly dischar<g ref="char:EOLhyphen"/>ged, or Fines remitted or qualified, that the ſame be likewiſe Certified, to prevent undue Moleſtation, Trouble, or Charge to the People.</p>
+            <p>V. That after the ſaid firſt day of <hi>November,</hi> no Iſſues be made of any part of the ſaid Revenue, without Warrant or Order from the Commiſſioners of Parliament, or others appointed thereunto by
+<pb n="5" facs="tcp:50339:5"/>
+their Authoritie, And that ſuch Warrants or Pow<g ref="char:EOLhyphen"/>ers given to others, to Iſſue Moneys as aforeſaid, be atteſted to be Entered in the ſaid Office, by the Keeper thereof, To the end it may be known, whe<g ref="char:EOLhyphen"/>ther the Power and Inſtructions given, be Ob<g ref="char:EOLhyphen"/>ſerved.</p>
+            <p>VI. That after the ſaid firſt day of <hi>November,</hi> no Iſſues be made of any part of the Stores of Proviſi<g ref="char:EOLhyphen"/>ons, but by Warrant from the Commander in Chief, or whom he ſhall impower for that purpoſe, and the ſaid Warrants and Powers be Entered and atteſted by him that ſhall be appointed to keep the ſaid Office. That a Checque upon all Stores may likewiſe remain there.</p>
+            <p>VII. That the Collectors of Aſſeſſments, Cuſt<g ref="char:EOLhyphen"/>oms and Exciſe in every reſpective Precinct, do Monthly pay over unto the Treſurer of the ſame Precinct, what ſhall be received by them as afore<g ref="char:EOLhyphen"/>ſaid, and alſo all ſuch Rents due for Lands, Houſes, and Tiths, as ſhall be received by them, at the uſu<g ref="char:EOLhyphen"/>al times of payment from time to time, and enter their Acquittances before the Commiſſioners of Re<g ref="char:EOLhyphen"/>venue there; To the end they may Certifie the ſame, every ſix Months from time to time into the ſaid Office, there to remain as a Charge upon the reſpective Treſurers:</p>
+            <p>VIII. That the Commiſſioners of the Revenue in every reſpective Precinct, do from time to time, Certifie into the ſaid Office, what Alteration, Change, Increaſe or Diminution is made in any of the Branches of the Publick Revenue, with the time when, and the reaſon wherefore the ſame is made.</p>
+            <p>
+               <pb n="6" facs="tcp:50339:6"/>IX. That four or more Perſons be forthwith ap<g ref="char:EOLhyphen"/>pointed as Auditors, to take the Accompts of every reſpective Perſon, that hath been imployed in the receiving and Iſſuing out of any Money, Proviſi<g ref="char:EOLhyphen"/>on of Victuals, or other Stores, at any time from the firſt day of <hi>May</hi> 1649, to the ſaid firſt day of <hi>No<g ref="char:EOLhyphen"/>vember:</hi> And to Certifie the ſaid Accompts to the Commiſſioners of Parliament, that the Accompt<g ref="char:EOLhyphen"/>ants, upon clearing their Accompts may be duly discharged: And likewiſe to receive all Original Books, Invoices, Rent-Rols, Vouchers, and o<g ref="char:EOLhyphen"/>ther Papers which may tend to the Juſtifying of the ſaid Accompt, &amp; Charging the Perſons unto whom any Money or Proviſions have been paid or Iſſued, And to return the ſaid Original Books, Invoices, Rent-Rols, Vouchers, and other Papers into the ſaid Office, there to remain for Publick Vſe.</p>
+            <p>X. That for the future, ſuch Perſons as ſhall be appointed Auditors, do once in every ſix Months, take all Publick Accompts of Money and Proviſi<g ref="char:EOLhyphen"/>ons, and Certifie the ſame to the Commiſſioners of Parliament, and do return all Books, Vouchers, and Papers for the Juſtifying ſuch Accompts into the ſaid Office<g ref="char:punc">▪</g> In which Accompts, they are to diſtinguiſh and ballance every reſpective Branch of the Revenue, all which Accompts ſo drawn up as aforeſaid, are to remain in the ſaid Office, as a Charge upon ſuch Perſons, unto whom any Mo<g ref="char:EOLhyphen"/>ney or Proviſions have been paid or Iſſued.</p>
+            <p>The Accompts mentioned in the precedent articles, to be taken and ſtated by the Auditors and Certifi<g ref="char:EOLhyphen"/>ed to the Commiſſioners of Parliament, are to be
+<pb n="7" facs="tcp:50339:6"/>
+from thence tranſmitted unto the ſaid Office.</p>
+            <p>XI. That once in every ſix Months, out of the Accompts returned into the Office as aforeſaid, there be a general Accompt formed by the Perſons, who ſhall have the Charge of the ſaid Office, of all the Receipts and Iſſues throughout the whole Na<g ref="char:EOLhyphen"/>tion, of the whole and every reſpective Branch of the Revenue, diſtinctly ballanced as aforeſaid; At the drawing up of which Accompt, ſuch Perſons to be preſent, as the Commiſſoners of Parliament ſhall appoint, as Inſpectors or Viewers of the ſaid Ac<g ref="char:EOLhyphen"/>compt, (whereof one of the Commiſſioners of Par<g ref="char:EOLhyphen"/>liament to be one) To the end, that the ſame (be<g ref="char:EOLhyphen"/>ing carefully Examined and approved of by the ſaid Perſons) may afterwards remain in the ſaid Office, as an Accompt of Record fully determined, for ſo much as ſhall be contained in the ſaid Accompts, and approved of as aforeſaid.</p>
+            <p>XII. That for the better Checquing of ſuch Ac<g ref="char:EOLhyphen"/>compts, as ſhall relate to the Soldiers Entertain<g ref="char:EOLhyphen"/>ment, Duplicats or exact Abſtracts of all Monthly Muſters, be returned by all Commiſſaries for Mu<g ref="char:EOLhyphen"/>ſters, into the ſaid Office; And that likewiſe Dupli<g ref="char:EOLhyphen"/>cats of all Warrants for the Iſſues out of all Pro<g ref="char:EOLhyphen"/>viſions, and for Pay of Soldiers: And all Orders for reducing any part of the Forces, and all other Orders or Warrants, which may relate to the Di<g ref="char:EOLhyphen"/>minution or Increaſe of the Pay of the Forces, may be returned into the ſaid Office, once every ſix Months by the Auditor General for the Army: And that all Eſtabliſhments likewiſe for the Pay of the Army, be alſo Regiſtered in the ſaid Office.</p>
+            <p>
+               <pb n="8" facs="tcp:50339:7"/>That for the more regular Iſſuing out of the Re<g ref="char:EOLhyphen"/>venue and Pay of the Soldiers; All Warrants may be drawn in the enſuing Forms, in all Caſes where the ſaid Forms may be proper, (<hi>viz.</hi>)</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="warrant">
+                        <p>THeſe are to require you, forthwith out of the Money in your hands, of Cuſtom, or Exciſe, or Tith-Money, or Sequeſtered Goods; to Pay unto <hi>A. B.</hi> the Sum of 00<seg rend="above">l.</seg> 00<seg rend="above">s.</seg> 00<seg rend="above">d.</seg> for his Salarie, as &amp;<hi>c.</hi> Commencing &amp;<hi>c.</hi> and Determining &amp;<hi>c.</hi> or (in full of the within-written Bill) for Work don in or at &amp;<hi>c.</hi> for the States Service: And for ſo doing, this, together with the Receipt of the ſaid <hi>A. B.</hi> ſhall be your ſufficient Warrant. Dated, &amp;<hi>c.</hi>
+                        </p>
+                        <trailer>To C. D. Treaſurer of the E, &amp;c.</trailer>
+                     </div>
+                     <div type="warrant">
+                        <p>THeſe are to require you, out of ſuch Moneys, as are or ſhall be appointed for Payment of the Soldiers; to Iſſue forth with, and Pay unto Cap<g ref="char:EOLhyphen"/>tain <hi>A. B.</hi> the Sum of 00<seg rend="above">l.</seg> 00<seg rend="above">s.</seg> 00<seg rend="above">d.</seg> upon Accompt, which with 00<seg rend="above">l.</seg> 00<seg rend="above">s.</seg> 00<seg rend="above">d.</seg> discompted for Proviſion, delivered in kind out of the Stores, is for Payment of a Months Pay (according to the preſent allowance of Pay) including Carriage-Money, to the Officers and Soldiers, in the Companie of Foot, under his Com<g ref="char:EOLhyphen"/>mand part of <hi>C. D.</hi> Regiment, Commencing &amp;<hi>c.</hi> and Determining &amp;<hi>c.</hi> According to the Computation of Pay on the back ſide of this Warrant, agreeing with the Muſters of &amp;<hi>c.</hi> And this with the Receipt of the &amp;<hi>c.</hi>
+                        </p>
+                     </div>
+                     <div type="warrant">
+                        <pb n="9" facs="tcp:50339:7"/>
+                        <head>A Warrant for Captain <hi>A. B.</hi>
+                        </head>
+                        <p>
+                           <table>
+                              <row>
+                                 <cell> </cell>
+                                 <cell role="label">l.</cell>
+                                 <cell role="label">s.</cell>
+                                 <cell role="label">d.</cell>
+                                 <cell> </cell>
+                                 <cell role="label">l.</cell>
+                                 <cell role="label">s.</cell>
+                                 <cell role="label">d.</cell>
+                              </row>
+                              <row>
+                                 <cell> </cell>
+                                 <cell> </cell>
+                                 <cell> </cell>
+                                 <cell> </cell>
+                                 <cell>Captain.—</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell> </cell>
+                                 <cell> </cell>
+                                 <cell> </cell>
+                                 <cell> </cell>
+                                 <cell>Lieutenant—</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell> </cell>
+                                 <cell> </cell>
+                                 <cell> </cell>
+                                 <cell> </cell>
+                                 <cell>Enſign—</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell>In Money.—</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                                 <cell>2. Sergeants -</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell>In Proviſion.—</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                                 <cell>6 Corp. Dru<g ref="char:cmbAbbrStroke">̄</g> and Gent.</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell> </cell>
+                                 <cell> </cell>
+                                 <cell> </cell>
+                                 <cell> </cell>
+                                 <cell>100 Souldier -</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell> </cell>
+                                 <cell> </cell>
+                                 <cell> </cell>
+                                 <cell> </cell>
+                                 <cell>Carriage.—</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                              </row>
+                           </table>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <div type="part">
+               <head>The Computation to be Entered in a Book.</head>
+               <p n="1">I. BY means of which, all differences of Pay will be eaſily determined, and the ſame Warrants again without Trouble Examin<g ref="char:EOLhyphen"/>ed.</p>
+               <p n="2">II. By the Warrants ſo Framed, there may be a diſtinct Accompt kept, of how much Mo<g ref="char:EOLhyphen"/>ney, and how much Proviſions each Captain on each Regiment receives. (<hi>viz.</hi>)
+<table>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>l.</cell>
+                        <cell>s.</cell>
+                        <cell>d.</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">PAid Captain <hi>A. B.</hi> of <hi>C. D.</hi> Regiment for himſelf and Company, for ſix Months Pay, Commencing &amp;<hi>c.</hi> Determ. &amp;<hi>c.</hi> As appears by Warrant and Mu<g ref="char:EOLhyphen"/>ſter Rol. &amp;<hi>c.</hi>
+                        </cell>
+                        <cell>Money—</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>Proviſion</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                  </table>
+               </p>
+               <p n="3">III. By thoſe Warrants alſo, the Store<g ref="char:EOLhyphen"/>keepers may be Checqued in each Inland Pre<g ref="char:EOLhyphen"/>cinct, and of each Private-Store.</p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:50339:8"/>
+               <head>As to bringing the Stores to Accompt.</head>
+               <p>THat all Invoices from <hi>England,</hi> be brought to the aforeſaid Office, and there Entered and Computed, And all Charges of removing Stores &amp;<hi>c.</hi> may alſo be added to their Original Price, and both added together as a Charge for Stores; And for that end, diſtinct Accompts of Disburſments for Proviſions, or appertaining to them, is to be kept.</p>
+               <p>That the Diviſion of Stores to the ſeveral Precincts, being by Warrant as aforeſaid, and Entered in the aforeſaid Office; The ſame be forthwith Computed at the States Rates, by him that hath the charge of the ſaid Office, and that Computation forthwith ſent to the Au<g ref="char:EOLhyphen"/>ditor General of the Armie; To the end, that the Treaſurer of every Precinct may pay the real value of ſuch Proviſions, as ſhall be appointed for ſupply of the Soldiers within that Precinct, into the hands of ſuch Perſons, as ſhall be Au<g ref="char:EOLhyphen"/>thorized by Warrant to receive the ſame, and the ſame reſerved as a Treaſure for buying new Stores.</p>
+               <p>That from that Office may immediatly (on Receipt of Invoices) Iſſue forth a Copy of the ſame to the Store-keepers where the ſame is to be Landed, that they may know what to receive and when the ſame is received, to ſignifie the ſame back to the ſaid Office under his Hand.</p>
+               <p>
+                  <pb n="11" facs="tcp:50339:8"/>And the Commiſſioners of Revenue in every re<g ref="char:EOLhyphen"/>ſpective Precinct, are hereby ſtrictly required, forthwith to examin the State of the Revenue and Treaſure within their Charge, and the Receipts and Iſſues of the ſame, from the firſt of <hi>November</hi> 1651, to the firſt of <hi>November</hi> 1652, in ſuch manner as is be<g ref="char:EOLhyphen"/>fore ſpecified; And Certifie the ſame to the ſaid Com<g ref="char:EOLhyphen"/>miſſioners of Parliament.</p>
+               <p>And to the end that all Perſons concerned in this Service, may the better know what is hereby requi<g ref="char:EOLhyphen"/>red of them: It is further Ordered, That ſix hundred Copies of this Declaration he forthwith Printed, and ſent into the reſpective Precincts, to be by the Commiſſioners of the Revenue, diſperſed to the re<g ref="char:EOLhyphen"/>ſpective Perſons imployed in the Receipts Iſſues, or other Management of the Revenue and Stores re<g ref="char:EOLhyphen"/>ſpectively.</p>
+            </div>
+            <closer>
+               <dateline>Dublin, <date>
+                     <hi>November</hi> 30. 1652.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Charles Fleetwood.</item>
+                     <item>Miles Corbet.</item>
+                     <item>Edm. Ludlow.</item>
+                     <item>Jo. Jones.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
